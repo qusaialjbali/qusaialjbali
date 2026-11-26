@@ -24,7 +24,7 @@ const PROMPT = 'qusai@the-void:~$ ';
 const SCRIPT = [
   ['cmd', 'whoami', 0.6],
   ['out', 'qusai. builds web things. some of them are haunted.', 0.2],
-  ['cmd', './summon --project commons-ui', 0.7],
+  ['cmd', './summon --project tearsheet', 0.7],
   ['ok', '[ ok ] 98 interface parts bound to the page', 0.25],
   ['ok', '[ ok ] html, react, vue, svelte. free forever. no sacrifice required.', 0.2],
   ['warn', '[warn] issue 02 is moving in the basement. do not go down there yet.', 0.35],
@@ -75,7 +75,7 @@ const lastY = y;
 const cursorX = LEFT + PROMPT.length * CH;
 const terminal = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t d">
   <title id="t">A haunted terminal boots up</title>
-  <desc id="d">A terminal types: whoami, qusai, builds web things, some of them are haunted. It summons the Commons UI project: 98 interface parts in HTML, React, Vue and Svelte, free forever. A warning says issue 02 is moving in the basement. The message of the day says you are the first visitor it noticed. Deleting feelings fails because the resource is busy, and pinging sleep times out. Then something else starts typing.</desc>
+  <desc id="d">A terminal types: whoami, qusai, builds web things, some of them are haunted. It summons the Tearsheet project: 98 interface parts in HTML, React, Vue and Svelte, free forever. A warning says issue 02 is moving in the basement. The message of the day says you are the first visitor it noticed. Deleting feelings fails because the resource is busy, and pinging sleep times out. Then something else starts typing.</desc>
   <defs>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.22"/></pattern>
     <radialGradient id="vig" cx="50%" cy="45%" r="75%"><stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity="0.55"/></radialGradient>

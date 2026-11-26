@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminal.svg" width="100%" alt="A haunted terminal boots up. It types whoami and answers: qusai, builds web things, some of them are haunted. It summons Commons UI, 98 free interface parts in HTML, React, Vue and Svelte, warns that issue 02 is moving in the basement, fails to delete feelings, times out pinging sleep, and then something else starts typing.">
+  <img src="terminal.svg" width="100%" alt="A haunted terminal boots up. It types whoami and answers: qusai, builds web things, some of them are haunted. It summons Tearsheet, 98 free interface parts in HTML, React, Vue and Svelte, warns that issue 02 is moving in the basement, fails to delete feelings, times out pinging sleep, and then something else starts typing.">
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ### currently haunting
 
-<a href="https://qusaialjbali.github.io/commons-ui/">
-  <img src="https://qusaialjbali.github.io/commons-ui/og.png" width="100%" alt="Commons UI: interface parts you can tear out and keep, in HTML, React, Vue and Svelte. Free forever, MIT-0.">
+<a href="https://qusaialjbali.github.io/tearsheet/">
+  <img src="https://qusaialjbali.github.io/tearsheet/og.png" width="100%" alt="Tearsheet: interface parts you can tear out and keep, in HTML, React, Vue and Svelte. Free forever, MIT-0.">
 </a>
 
-**[Commons UI](https://github.com/qusaialjbali/commons-ui)** is a free zine of interface parts in HTML, React, Vue and Svelte. Copy anything, credit nobody, ship it tonight. It also talks to your AI agent, which is the least haunted thing about it.
+**[Tearsheet](https://github.com/qusaialjbali/tearsheet)** is a free zine of interface parts in HTML, React, Vue and Svelte. Copy anything, credit nobody, ship it tonight. It also talks to your AI agent, which is the least haunted thing about it.
 
 ```sh
-npx commons-ui-zine add password-creature   # it covers its eyes while you type. polite.
-npx commons-ui-zine add hold-to-confirm     # for when "are you sure?" is not enough.
+npx tearsheet add password-creature   # it covers its eyes while you type. polite.
+npx tearsheet add hold-to-confirm     # for when "are you sure?" is not enough.
 ```
 
 ### known side effects

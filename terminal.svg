@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 438" width="860" height="438" role="img" aria-labelledby="t d">
   <title id="t">A haunted terminal boots up</title>
-  <desc id="d">A terminal types: whoami, qusai, builds web things, some of them are haunted. It summons the Commons UI project: 98 interface parts in HTML, React, Vue and Svelte, free forever. A warning says issue 02 is moving in the basement. The message of the day says you are the first visitor it noticed. Deleting feelings fails because the resource is busy, and pinging sleep times out. Then something else starts typing.</desc>
+  <desc id="d">A terminal types: whoami, qusai, builds web things, some of them are haunted. It summons the Tearsheet project: 98 interface parts in HTML, React, Vue and Svelte, free forever. A warning says issue 02 is moving in the basement. The message of the day says you are the first visitor it noticed. Deleting feelings fails because the resource is busy, and pinging sleep times out. Then something else starts typing.</desc>
   <defs>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.22"/></pattern>
     <radialGradient id="vig" cx="50%" cy="45%" r="75%"><stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity="0.55"/></radialGradient>
@@ -21,48 +21,48 @@
     <text x="186.9" y="64" fill="#d7d7d0" clip-path="url(#c0)" textLength="54.3" lengthAdjust="spacingAndGlyphs">whoami</text>
   </g>
   <text x="24" y="86" fill="#d7d7d0" opacity="0" textLength="461.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.20s" fill="freeze"/>qusai. builds web things. some of them are haunted.</text>
-  <clipPath id="c2"><rect x="186.9" y="92" width="0" height="22"><animate attributeName="width" begin="2.98s" dur="1.59s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7;126.7;135.8;144.8;153.9;162.9;172.0;181.0;190.1;199.1;208.2;217.2;226.3;235.3;244.4;253.4;262.5" calcMode="discrete" fill="freeze"/></rect></clipPath>
+  <clipPath id="c2"><rect x="186.9" y="92" width="0" height="22"><animate attributeName="width" begin="2.98s" dur="1.54s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7;126.7;135.8;144.8;153.9;162.9;172.0;181.0;190.1;199.1;208.2;217.2;226.3;235.3;244.4;253.4" calcMode="discrete" fill="freeze"/></rect></clipPath>
   <g opacity="0"><set attributeName="opacity" to="1" begin="2.68s" fill="freeze"/>
     <text x="24" y="108" fill="#7cff9b" textLength="162.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">qusai@the-void:~$ </text>
-    <text x="186.9" y="108" fill="#d7d7d0" clip-path="url(#c2)" textLength="262.5" lengthAdjust="spacingAndGlyphs">./summon --project commons-ui</text>
+    <text x="186.9" y="108" fill="#d7d7d0" clip-path="url(#c2)" textLength="253.4" lengthAdjust="spacingAndGlyphs">./summon --project tearsheet</text>
   </g>
-  <text x="24" y="130" fill="#7cff9b" opacity="0" textLength="389.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.08s" fill="freeze"/>[ ok ] 98 interface parts bound to the page</text>
-  <text x="24" y="152" fill="#7cff9b" opacity="0" textLength="624.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.36s" fill="freeze"/>[ ok ] html, react, vue, svelte. free forever. no sacrifice required.</text>
-  <text x="24" y="174" fill="#ffcf4a" opacity="0" textLength="615.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.79s" fill="freeze"/>[warn] issue 02 is moving in the basement. do not go down there yet.</text>
-  <clipPath id="c6"><rect x="186.9" y="180" width="0" height="22"><animate attributeName="width" begin="6.67s" dur="0.71s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7" calcMode="discrete" fill="freeze"/></rect></clipPath>
-  <g opacity="0"><set attributeName="opacity" to="1" begin="6.37s" fill="freeze"/>
+  <text x="24" y="130" fill="#7cff9b" opacity="0" textLength="389.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.02s" fill="freeze"/>[ ok ] 98 interface parts bound to the page</text>
+  <text x="24" y="152" fill="#7cff9b" opacity="0" textLength="624.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.30s" fill="freeze"/>[ ok ] html, react, vue, svelte. free forever. no sacrifice required.</text>
+  <text x="24" y="174" fill="#ffcf4a" opacity="0" textLength="615.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="5.73s" fill="freeze"/>[warn] issue 02 is moving in the basement. do not go down there yet.</text>
+  <clipPath id="c6"><rect x="186.9" y="180" width="0" height="22"><animate attributeName="width" begin="6.61s" dur="0.71s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7" calcMode="discrete" fill="freeze"/></rect></clipPath>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="6.31s" fill="freeze"/>
     <text x="24" y="196" fill="#7cff9b" textLength="162.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">qusai@the-void:~$ </text>
     <text x="186.9" y="196" fill="#d7d7d0" clip-path="url(#c6)" textLength="117.7" lengthAdjust="spacingAndGlyphs">cat /etc/motd</text>
   </g>
-  <text x="24" y="218" fill="#d7d7d0" opacity="0" textLength="633.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.93s" fill="freeze"/>you are not the first visitor today. you are the first one it noticed.</text>
-  <clipPath id="c8"><rect x="186.9" y="224" width="0" height="22"><animate attributeName="width" begin="8.91s" dur="1.21s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7;126.7;135.8;144.8;153.9;162.9;172.0;181.0;190.1;199.1" calcMode="discrete" fill="freeze"/></rect></clipPath>
-  <g opacity="0"><set attributeName="opacity" to="1" begin="8.61s" fill="freeze"/>
+  <text x="24" y="218" fill="#d7d7d0" opacity="0" textLength="633.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.88s" fill="freeze"/>you are not the first visitor today. you are the first one it noticed.</text>
+  <clipPath id="c8"><rect x="186.9" y="224" width="0" height="22"><animate attributeName="width" begin="8.86s" dur="1.21s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5;99.6;108.6;117.7;126.7;135.8;144.8;153.9;162.9;172.0;181.0;190.1;199.1" calcMode="discrete" fill="freeze"/></rect></clipPath>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="8.55s" fill="freeze"/>
     <text x="24" y="240" fill="#7cff9b" textLength="162.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">qusai@the-void:~$ </text>
     <text x="186.9" y="240" fill="#d7d7d0" clip-path="url(#c8)" textLength="199.1" lengthAdjust="spacingAndGlyphs">sudo rm -rf ~/feelings</text>
   </g>
-  <text x="24" y="262" fill="#ff5c7a" opacity="0" textLength="407.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="10.67s" fill="freeze"/>rm: cannot remove '~/feelings': resource busy</text>
-  <clipPath id="c10"><rect x="186.9" y="268" width="0" height="22"><animate attributeName="width" begin="11.45s" dur="0.55s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5" calcMode="discrete" fill="freeze"/></rect></clipPath>
-  <g opacity="0"><set attributeName="opacity" to="1" begin="11.15s" fill="freeze"/>
+  <text x="24" y="262" fill="#ff5c7a" opacity="0" textLength="407.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="10.62s" fill="freeze"/>rm: cannot remove '~/feelings': resource busy</text>
+  <clipPath id="c10"><rect x="186.9" y="268" width="0" height="22"><animate attributeName="width" begin="11.40s" dur="0.55s" values="0.0;9.1;18.1;27.2;36.2;45.3;54.3;63.4;72.4;81.5;90.5" calcMode="discrete" fill="freeze"/></rect></clipPath>
+  <g opacity="0"><set attributeName="opacity" to="1" begin="11.10s" fill="freeze"/>
     <text x="24" y="284" fill="#7cff9b" textLength="162.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">qusai@the-void:~$ </text>
     <text x="186.9" y="284" fill="#d7d7d0" clip-path="url(#c10)" textLength="90.5" lengthAdjust="spacingAndGlyphs">ping sleep</text>
   </g>
-  <text x="24" y="306" fill="#7b7b85" opacity="0" textLength="271.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="12.75s" fill="freeze"/>request timeout for icmp_seq 0</text>
-  <text x="24" y="328" fill="#7b7b85" opacity="0" textLength="271.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="13.43s" fill="freeze"/>request timeout for icmp_seq 1</text>
-  <text x="24" y="350" fill="#7b7b85" opacity="0" textLength="506.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="14.11s" fill="freeze"/>request timeout for icmp_seq 2. sleep is not responding.</text>
+  <text x="24" y="306" fill="#7b7b85" opacity="0" textLength="271.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="12.70s" fill="freeze"/>request timeout for icmp_seq 0</text>
+  <text x="24" y="328" fill="#7b7b85" opacity="0" textLength="271.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="13.38s" fill="freeze"/>request timeout for icmp_seq 1</text>
+  <text x="24" y="350" fill="#7b7b85" opacity="0" textLength="506.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><set attributeName="opacity" to="1" begin="14.06s" fill="freeze"/>request timeout for icmp_seq 2. sleep is not responding.</text>
 
     <!-- the prompt comes back, and something else types into it -->
-    <g opacity="0"><set attributeName="opacity" to="1" begin="14.59s" fill="freeze"/>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="14.54s" fill="freeze"/>
       <text x="24" y="372" fill="#7cff9b" textLength="162.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">qusai@the-void:~$ </text>
       <g filter="url(#wobble)">
-        <text x="186.9" y="372" fill="#ff48b0" opacity="0" textLength="190.1" lengthAdjust="spacingAndGlyphs">i can see your cursor<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.6;0.7;0.75;1" dur="9s" begin="16.59s" repeatCount="indefinite"/></text>
-        <text x="186.9" y="372" fill="#ff48b0" opacity="0" textLength="235.3" lengthAdjust="spacingAndGlyphs">it's fine. keep scrolling.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15;0.2;0.3;0.35;1" dur="9s" begin="16.59s" repeatCount="indefinite"/></text>
+        <text x="186.9" y="372" fill="#ff48b0" opacity="0" textLength="190.1" lengthAdjust="spacingAndGlyphs">i can see your cursor<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.6;0.7;0.75;1" dur="9s" begin="16.54s" repeatCount="indefinite"/></text>
+        <text x="186.9" y="372" fill="#ff48b0" opacity="0" textLength="235.3" lengthAdjust="spacingAndGlyphs">it's fine. keep scrolling.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15;0.2;0.3;0.35;1" dur="9s" begin="16.54s" repeatCount="indefinite"/></text>
       </g>
       <rect x="186.9" y="358" width="9" height="18" fill="#7cff9b"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/></rect>
     </g>
   </g>
 
   <!-- a red line that should not be there -->
-  <text x="836" y="420" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#ff5c7a" opacity="0">SOMETHING ELSE IS LOGGED IN<animate attributeName="opacity" values="0;0;0.9;0;0.9;0;0" keyTimes="0;0.8;0.81;0.83;0.84;0.86;1" dur="13s" begin="14.59s" repeatCount="indefinite"/></text>
+  <text x="836" y="420" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#ff5c7a" opacity="0">SOMETHING ELSE IS LOGGED IN<animate attributeName="opacity" values="0;0;0.9;0;0.9;0;0" keyTimes="0;0.8;0.81;0.83;0.84;0.86;1" dur="13s" begin="14.54s" repeatCount="indefinite"/></text>
 
   <rect width="860" height="438" rx="14" fill="url(#scan)" pointer-events="none"/>
   <rect width="860" height="438" rx="14" fill="url(#vig)" pointer-events="none"/>
