@@ -21,8 +21,8 @@
 **[Commons UI](https://github.com/qusaialjbali/commons-ui)** is a free zine of interface parts in HTML, React, Vue and Svelte. Copy anything, credit nobody, ship it tonight. It also talks to your AI agent, which is the least haunted thing about it.
 
 ```sh
-npx -y github:qusaialjbali/commons-ui add password-creature   # it covers its eyes while you type. polite.
-npx -y github:qusaialjbali/commons-ui add hold-to-confirm     # for when "are you sure?" is not enough.
+npx commons-ui-zine add password-creature   # it covers its eyes while you type. polite.
+npx commons-ui-zine add hold-to-confirm     # for when "are you sure?" is not enough.
 ```
 
 ### known side effects
