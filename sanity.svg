@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 64" width="860" height="64" role="img" aria-labelledby="st">
+  <title id="st">Sanity meter: loading, stuck at 99 percent</title>
+  <rect width="860" height="64" rx="12" fill="#0b0b0e"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#d7d7d0">
+    <text x="20" y="38">sanity.exe</text>
+    <rect x="130" y="24" width="600" height="18" rx="3" fill="none" stroke="#3a3a44" stroke-width="2"/>
+    <rect x="134" y="28" width="0" height="10" fill="#7cff9b">
+      <animate attributeName="width" values="0;180;190;420;430;588;588;586;588;300;0" keyTimes="0;0.15;0.25;0.4;0.5;0.62;0.8;0.83;0.86;0.95;1" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#7cff9b;#7cff9b;#ffcf4a;#ff5c7a;#7cff9b" keyTimes="0;0.6;0.8;0.88;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <text x="750" y="38" fill="#7cff9b">99%<animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/></text>
+    <text x="800" y="38" fill="#7b7b85">(lie)</text>
+  </g>
+</svg>
