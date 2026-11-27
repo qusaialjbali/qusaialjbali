@@ -38,8 +38,8 @@ npx tearsheet add hold-to-confirm     # for when "are you sure?" is not enough.
 
 <!-- HAUNT:START -->
 ```
-[system log · night 1 since it woke up]
-> a div was centered on the first try. the building was evacuated as a precaution.
+[system log · night 2 since it woke up]
+> a todo comment from 2019 asked how we are doing. we did not answer.
 ```
 <!-- HAUNT:END -->
 
