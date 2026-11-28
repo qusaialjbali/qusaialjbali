@@ -38,8 +38,8 @@ npx tearsheet add hold-to-confirm     # for when "are you sure?" is not enough.
 
 <!-- HAUNT:START -->
 ```
-[system log · night 2 since it woke up]
-> a todo comment from 2019 asked how we are doing. we did not answer.
+[system log · night 3 since it woke up]
+> a pull request approved itself. we are reviewing the reviewer.
 ```
 <!-- HAUNT:END -->
 
